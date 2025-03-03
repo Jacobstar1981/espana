@@ -1,0 +1,36 @@
+@charset "utf-8";
+.tabla {
+    background-color: #DF1B1F;
+}
+body  {
+    background-color: #E3C216;
+}
+.color tabla {
+    background-color: #B48E08;
+}
+.heading {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #C71518;
+    color: #D8CA0A;
+}
+.paella {
+    height: 77%;
+    width: 81%;
+}
+.video {
+    height: 407px;
+    width: 969px;
+}
+.copy {
+}
+
+.instagram {
+    width: 19%;
+    height: 19%;
+}
+.face {
+    width: 19%;
+    height: 0%;
+}
+.x {
+}
